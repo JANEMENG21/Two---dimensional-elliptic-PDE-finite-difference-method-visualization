@@ -8,5 +8,7 @@ This problem belongs to two - dimensional two - point boundary value problem. Th
 
 After running this code, you are able to get a plot like figure 2.
 
+Considering that the calculation is slow when N is large, the calculation method is improved in *"matlab_summer_3_pde_sparse.m"*
+
 ----
 I am glad if my code can help you~
